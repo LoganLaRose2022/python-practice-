@@ -5,4 +5,4 @@ print("Chicken Little")
 print("Cars")
 
 #Print 3rd movie
-print("Over The Hedge")
+print("Over the Hedge")
